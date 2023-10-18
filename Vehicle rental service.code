@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vehicle Rental Service</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Vehicle Rental Service</h1>
+  </header>
+  <main>
+    <section class="vehicle">
+      <img src="C:\Users\Admin\OneDrive\vtu19852\swift.jfif" width="150" height="150">
+      <h2>Car</h2>
+      <p>Price: 500/day</p>
+      <button>Rent Now</button>
+    </section>
+    <section class="vehicle">
+      <img src="C:\Users\Admin\OneDrive\vtu19852\rx100.jfif" width="150" height="150">
+      <h2>Bike</h2>
+      <p>Price: 200/day</p>
+      <button>Rent Now</button>
+    </section>
+    
+  </main>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vehicle Rental Service</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body bgcolor="sky blue">
+  
+
+  <header>
+    <h1>Vehicle Rental Service</h1>
+  </header>
+  
+  <main>
+    <section class="vehicle">
+      <img src="C:\Users\Admin\OneDrive\vtu19852\swift.jfif" width="150" height="150">
+      <h2>Car</h2>
+      <p>Price: 500/day</p>
+      
+      <button><a href ="file:///C:/Users/Admin/Desktop/java/Untitled-1.html">rentnow</a></button>
+    </section>
+    <section class="vehicle">
+      <img src="C:\Users\Admin\OneDrive\vtu19852\rx100.jfif" width="150" height="150">
+      <h2>Bike</h2>
+      <p>Price: 200/day</p>
+      <button><a href ="file:///C:/Users/Admin/Desktop/java/bikes.html">rentnow</a></button>
+    </section>
+    
+  </main>
+</body>
+</html>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Vehicle rental Service</title>
+</head>
+<body>
+    <form>
+        <h1>enter the name</h1>
+        <input type ="text" size="25">
+        <h1>enter the password</h1>
+        <input type = "password" size ="25"><br>
+        
+       <button><a href ="file:///C:/Users/Admin/Desktop/java/task1.html">click</a></button>
+    </form>
+</body>
+</html>
